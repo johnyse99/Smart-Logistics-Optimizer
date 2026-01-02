@@ -40,3 +40,5 @@ This project is distributed under the MIT license. Its purpose is strictly educa
 
 **Note for recruiters:**
 This Capstone project demonstrates the ability to translate complex business constraints into mathematical models. It showcases mastery over the entire data lifecycle—from raw SQL data to a prescriptive engine that provides actionable strategic decisions.
+
+Autor: JUAN S.  Contacto: https://github.com/johnyse99
