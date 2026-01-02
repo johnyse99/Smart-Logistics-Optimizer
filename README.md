@@ -1,6 +1,9 @@
 # Smart Logistics Optimizer: Capstone Project
 This project is part of the Applied Data Science program, integrating descriptive, predictive, and prescriptive analytics into a unified supply chain solution. It solves a real-world transportation problem by minimizing delivery costs through mathematical optimization.
 
+<img width="1878" height="927" alt="preview" src="https://github.com/user-attachments/assets/d7e7c800-3295-45dc-b56d-7187edb6399f" />
+
+
 ## 🏗️ Project Architecture
 The application follows a rigorous three-phase industrial workflow:
 
